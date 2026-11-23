@@ -6,7 +6,7 @@ FixTrail is a free desktop app that shows how healthy your computer is. It reads
 
 It works completely offline. You don't need an account, and nothing leaves your computer unless you set up sync yourself.
 
-> **FixTrail 0.1.0 is a beta.** It has been tested on Linux, Windows and an Apple Silicon Mac. Please try it and tell us what works and what doesn't in [Issues](../../issues).
+> **FixTrail 0.1.1 is a beta.** It has been tested on Linux, Windows and an Apple Silicon Mac. Please try it and tell us what works and what doesn't in [Issues](../../issues).
 
 **[⬇ Download FixTrail](#download)**
 
@@ -48,14 +48,14 @@ Click a file name to download it.
 
 | Your computer | Download | Requirements |
 | --- | --- | --- |
-| **Mac with Apple chip** (M1, M2, M3, M4 and later) | [**`FixTrail_0.1.0_aarch64.dmg`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.0_aarch64.dmg) | macOS 11 Big Sur or later |
-| **Mac with Intel chip** | [**`FixTrail_0.1.0_x64.dmg`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.0_x64.dmg) | macOS 11 Big Sur or later |
-| **Windows PC** (recommended) | [**`FixTrail_0.1.0_x64-setup.exe`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.0_x64-setup.exe) | Windows 10 or 11, 64-bit (x64) |
-| **Windows PC** (MSI package, for IT-managed PCs) | [**`FixTrail_0.1.0_x64_en-US.msi`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.0_x64_en-US.msi) | Windows 10 or 11, 64-bit (x64) |
-| **Ubuntu, Debian, Linux Mint, Pop!_OS** | [**`FixTrail_0.1.0_amd64.deb`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.0_amd64.deb) | 64-bit (x86_64) |
-| **Fedora, openSUSE** | [**`FixTrail-0.1.0-1.x86_64.rpm`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail-0.1.0-1.x86_64.rpm) | 64-bit (x86_64) |
-| **Arch Linux, Manjaro, EndeavourOS** | [**`fixtrail-0.1.0-1-x86_64.pkg.tar.zst`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/fixtrail-0.1.0-1-x86_64.pkg.tar.zst) | 64-bit (x86_64) |
-| **Any other Linux** | [**`FixTrail_0.1.0_amd64.AppImage`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.0_amd64.AppImage) | 64-bit (x86_64) |
+| **Mac with Apple chip** (M1, M2, M3, M4 and later) | [**`FixTrail_0.1.1_aarch64.dmg`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.1_aarch64.dmg) | macOS 11 Big Sur or later |
+| **Mac with Intel chip** | [**`FixTrail_0.1.1_x64.dmg`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.1_x64.dmg) | macOS 11 Big Sur or later |
+| **Windows PC** (recommended) | [**`FixTrail_0.1.1_x64-setup.exe`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.1_x64-setup.exe) | Windows 10 or 11, 64-bit (x64) |
+| **Windows PC** (MSI package, for IT-managed PCs) | [**`FixTrail_0.1.1_x64_en-US.msi`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.1_x64_en-US.msi) | Windows 10 or 11, 64-bit (x64) |
+| **Ubuntu, Debian, Linux Mint, Pop!_OS** | [**`FixTrail_0.1.1_amd64.deb`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.1_amd64.deb) | 64-bit (x86_64) |
+| **Fedora, openSUSE** | [**`FixTrail-0.1.1-1.x86_64.rpm`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail-0.1.1-1.x86_64.rpm) | 64-bit (x86_64) |
+| **Arch Linux, Manjaro, EndeavourOS** | [**`fixtrail-0.1.1-1-x86_64.pkg.tar.zst`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/fixtrail-0.1.1-1-x86_64.pkg.tar.zst) | 64-bit (x86_64) |
+| **Any other Linux** | [**`FixTrail_0.1.1_amd64.AppImage`**](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/FixTrail_0.1.1_amd64.AppImage) | 64-bit (x86_64) |
 | Checksums for all files | [`SHA256SUMS`](https://github.com/Sak-Thecoder/fixtrail-releases/releases/latest/download/SHA256SUMS) | See [Check your download](#check-your-download) |
 
 Windows on ARM isn't supported yet. All versions and release notes are on the [releases page](../../releases).
@@ -85,7 +85,7 @@ You only need to do this once. After that, FixTrail opens normally. You don't ne
 
 ### Windows
 
-1. Double-click `FixTrail_0.1.0_x64-setup.exe`.
+1. Double-click `FixTrail_0.1.1_x64-setup.exe`.
 2. If you see **"Windows protected your PC"**, click **More info**, then **Run anyway**.
 3. Follow the installer. It installs for your user account only, so you don't need administrator rights.
 4. Open FixTrail from the Start menu.
@@ -102,17 +102,17 @@ Open a terminal in the folder where you saved the file and run the command for y
 
 ```bash
 # Ubuntu, Debian, Linux Mint, Pop!_OS
-sudo apt install ./FixTrail_0.1.0_amd64.deb
+sudo apt install ./FixTrail_0.1.1_amd64.deb
 
 # Fedora, openSUSE
-sudo dnf install ./FixTrail-0.1.0-1.x86_64.rpm
+sudo dnf install ./FixTrail-0.1.1-1.x86_64.rpm
 
 # Arch Linux, Manjaro, EndeavourOS
-sudo pacman -U fixtrail-0.1.0-1-x86_64.pkg.tar.zst
+sudo pacman -U fixtrail-0.1.1-1-x86_64.pkg.tar.zst
 
 # Any distribution (no install needed)
-chmod +x FixTrail_0.1.0_amd64.AppImage
-./FixTrail_0.1.0_amd64.AppImage
+chmod +x FixTrail_0.1.1_amd64.AppImage
+./FixTrail_0.1.1_amd64.AppImage
 ```
 
 Then open **FixTrail** from your applications menu. The `.rpm` isn't GPG-signed, so `dnf` mentions that it skipped OpenPGP checks. That's expected for this beta.
@@ -142,7 +142,7 @@ FixTrail only shows a reading when your system actually provides it. If a value 
 | Network upload and download speed | ✅ | ✅ | ✅ |
 | Battery charge, health and cycle count | ✅ | ✅ | ✅ |
 | Charger connected and charging status | ✅ | ✅ | ✅ live updates |
-| CPU temperature | ✅ | ⚠️ only when the PC's firmware reports it (works on many ASUS laptops) | ✅ |
+| CPU temperature | ✅ Intel and AMD | ⚠️ only when the PC's firmware reports it (works on many ASUS laptops) | ✅ |
 | Graphics card name | ✅ | ✅ | ✅ |
 | Graphics temperature | ⚠️ when the driver reports it | ⚠️ when the driver reports it | ⚠️ confirmed on M1 and M2 |
 | Graphics usage | ⚠️ NVIDIA with `nvidia-smi` | ❌ | ❌ |
@@ -189,7 +189,7 @@ Each release includes a `SHA256SUMS` file with a fingerprint for every installer
 
 ```bash
 # macOS
-shasum -a 256 FixTrail_0.1.0_aarch64.dmg
+shasum -a 256 FixTrail_0.1.1_aarch64.dmg
 
 # Linux (checks every file in the folder at once)
 sha256sum -c SHA256SUMS --ignore-missing
@@ -197,7 +197,7 @@ sha256sum -c SHA256SUMS --ignore-missing
 
 ```powershell
 # Windows PowerShell
-Get-FileHash .\FixTrail_0.1.0_x64-setup.exe
+Get-FileHash .\FixTrail_0.1.1_x64-setup.exe
 ```
 
 ---
@@ -230,6 +230,9 @@ Your distribution is older than Ubuntu 22.04. Use a newer release, or try the Ap
 **Temperatures show as unavailable.**
 Your system doesn't report a sensor that FixTrail can read. This is common on Windows desktops and some laptops. Everything else still works.
 
+**CPU temperature is unavailable inside a virtual machine (VMware, VirtualBox, Hyper-V, QEMU/KVM).**
+This is expected. Virtual machines don't give the guest system access to the processor's temperature sensor, so there's no reading for any app to show (`sensors` reports "No sensors found!" too). FixTrail detects the virtual machine and explains this in the CPU temperature check. Run FixTrail on the host computer to see the real temperature.
+
 **Disk health shows as unavailable.**
 SMART data is currently Linux-only and needs `smartctl` (from `smartmontools`). Run a **Full Scan** after installing it.
 
@@ -245,6 +248,7 @@ This is the first beta, so some things aren't finished yet:
 - Installers aren't signed with Apple or Microsoft developer certificates, so first launch shows a warning.
 - There are no automatic updates. Check this page for new versions.
 - Intel Macs have only been tested in a virtual environment, not on real hardware.
+- CPU temperature isn't available inside virtual machines, because they don't expose the processor's sensor.
 - Disk health (SMART) and computer model detection are Linux-only for now.
 - Graphics usage isn't available on Windows or macOS.
 - Linux packages are for 64-bit Intel and AMD (x86_64) only. There's no ARM or Flatpak build yet.
@@ -256,7 +260,7 @@ This is the first beta, so some things aren't finished yet:
 Your feedback makes FixTrail better. [Open an issue](../../issues/new) and include:
 
 1. **Your system**: operating system and version (for example "macOS 15.2" or "Windows 11 23H2"), and your computer model.
-2. **Which file** you installed (for example `FixTrail_0.1.0_aarch64.dmg`).
+2. **Which file** you installed (for example `FixTrail_0.1.1_aarch64.dmg`).
 3. **What happened**, and what you expected to happen.
 4. **A screenshot**, if it helps.
 
